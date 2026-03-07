@@ -1,0 +1,24 @@
+# DriftBench Requirements
+
+# Core dependencies
+click>=8.0.0
+numpy>=1.20.0
+
+# PyTorch and ML frameworks
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+
+# Inference frameworks (at least one required)
+vllm>=0.4.0  # For vLLM support
+
+# Optional: Additional frameworks
+# tensorrt>=8.6.0  # For TensorRT-LLM support (uncomment if needed)
+# sglang>=0.1.0    # For SGLang support (uncomment if needed)
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950

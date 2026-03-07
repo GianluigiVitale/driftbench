@@ -1,0 +1,34 @@
+[
+  {
+    "holdout_type": "hardware",
+    "train_r2": 1.0,
+    "test_r2": 0.9098,
+    "test_mae": 1.25,
+    "n_train": 284,
+    "n_test": 136
+  },
+  {
+    "holdout_type": "precision",
+    "train_r2": 0.9999,
+    "test_r2": 0.7665,
+    "test_mae": 4.05,
+    "n_train": 404,
+    "n_test": 16
+  },
+  {
+    "holdout_type": "framework",
+    "train_r2": 1.0,
+    "test_r2": 0.4802,
+    "test_mae": 2.8,
+    "n_train": 256,
+    "n_test": 164
+  },
+  {
+    "holdout_type": "model",
+    "train_r2": 0.9997,
+    "test_r2": 0.1128,
+    "test_mae": 8.54,
+    "n_train": 332,
+    "n_test": 88
+  }
+]
