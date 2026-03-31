@@ -18,12 +18,11 @@ else:
 setup(
     name="driftbench",
     version="1.0.0",
-    author="Anonymous",
-    author_email="anonymous@mlsys2026.submission",
+    author="Gianluigi Vitale",
     description="Cross-Stack Drift Validation for LLM Deployments",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://anonymous.4open.science/r/driftbench",
+    url="https://github.com/GianluigiVitale/driftbench",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

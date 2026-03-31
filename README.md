@@ -193,4 +193,13 @@ driftbench/
 - **`driftbench/README.md`** - Complete technical documentation, API reference, usage examples
 - **Paper**: Section 4 (DriftBench) and Appendix
 
+## License
+
+- **Code:** MIT License
+- **Data:** CC BY 4.0
+
+**Archived:** [10.5281/zenodo.19361066](https://doi.org/10.5281/zenodo.19361066)
+
+---
+
 **DriftBench CLI v1.0** | MLSys 2026
